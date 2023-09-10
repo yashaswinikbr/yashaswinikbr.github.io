@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/yashaswinikbr/yashaswinikbr.github.io-v1" target="_blank">Version 1</a>
+  <a href="https://github.com/yashaswinikbr/yashaswinikbr.github.io-v1" target="_blank">Version 2</a>
 </p>
 
 <div align="center">
