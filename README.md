@@ -10,9 +10,6 @@
   <a href="" target="_blank">Version 1</a>
 </p>
 
-<div align="center">
-  <img alt="Demo" src="https://github.com/yashaswinikbr/yashaswinikbr.github.io/blob/code/src/images/demo.png" />
-</div>
 
 
 ## 🛠 Installation & Set Up
