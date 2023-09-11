@@ -10,5 +10,5 @@ company: ''
 showInProjects: true
 ---
 
-Engineered a robust C++ database management system on Linux in C++ that utilizes the heap, array, and B+ trees to store and retrieve records from the disk. 
+Engineered a robust C++ database management system on Linux that utilizes the heap, array, and B+ trees to store and retrieve records from the disk. 
 
