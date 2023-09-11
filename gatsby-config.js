@@ -19,7 +19,7 @@ module.exports = {
       options: {
         name: 'YashaswiniKondakindi',
         short_name: 'YashaswiniKondakindi',
-        start_url: 'yashaswinikbr.github.io',
+        start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
