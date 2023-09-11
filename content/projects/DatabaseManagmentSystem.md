@@ -1,16 +1,14 @@
 ---
 date: '2020-04-13'
-title: 'Covid-19 Helpdesk'
-github: 'https://github.com/yashaswinikbr/DatabaseManagementSystem'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+title: 'Database Management System'
+github: 'https://github.com/yashaswinikbr/Database-Systems-Implementation.git'
+external: ''
 tech:
-  - PHP
-  - Javascript
-  - TSQL
-  - HTML
-  - CSS
+  - C++
+
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.
+Engineered a robust C++ database management system on Linux in C++ that utilizes the heap, array, and B+ trees to store and retrieve records from the disk. 
+

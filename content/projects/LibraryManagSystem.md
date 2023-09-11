@@ -1,13 +1,12 @@
 ---
-date: '2019-04-30'
-title: 'Pension Management System'
-github: 'https://github.com/yashaswinikbr/LibraryManagementSystem'
+date: '2022-04-30'
+title: 'Library Management System'
+github: 'https://github.com/yashaswinikbr/LibraryManagementSystem.git'
 external: ''
 tech:
   - Java
-  - Sqlite
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-Java Swing based project with MySQL database developed using Netbeans IDE
+Designed a Developed a Library Management System in Java

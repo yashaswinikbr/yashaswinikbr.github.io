@@ -1,15 +1,16 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/yashaswinikbr/PensionManagementSystem'
+title: 'Pension Management System'
+github: 'https://github.com/yashaswinikbr/PensionManagementSystem.git'
 external: ''
 tech:
-  - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - Java
+  - AWS
+  - SQL
+  - Spring Boot
+  - MVC
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Crafted a Web Application using Java, JavaScript, HTML, CSS, Spring Boot, Kafka, MySQL, AWS, Docker.

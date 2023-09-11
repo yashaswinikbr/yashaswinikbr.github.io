@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Yashaswini Kondakindi | Software Developer',
   siteDescription:
-    'Yashaswini Kondakindi hold a masters degree in computer science from University of Florida',
+    'Yashaswini Kondakindi holds a Masters degree(December 2023) in Computer Science from University of Florida',
   siteKeywords:
     'Yashaswini Kondakindi, Yashaswini, Kondakindi , yashaswinikondakindi, software developer, software engineer, Competitive Programmer, Web developer, Java developer, One360 , Cognizant, University of Florida, Florida, UF , Application Developer  ',
   siteUrl: 'https://yashaswinikbr.github.io/',
@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/yashaswinikbr',
+      url: 'https://www.instagram.com/_yashaswinikbr_',
     },
   ],
 
