@@ -20,6 +20,4 @@ Hello! Interestingly, I got introduced to programming in my freshman year at [Os
 
 I'm currently working as a developer for **One360 LLC**. My responsibilty as a Fall intern include MERN, Javascript, Java/Spring, C# based microservices designing, development & testing. 
 
-I have about 7+ years of academic experience in the field of Computer Science and Software Engineering.
-
 Here is a list of the technologies that I'm familiar with!
