@@ -8,7 +8,7 @@ tech:
   - Problem solving
   - Logical Reasoning
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Repository dedicated to my #100DaysOfCode journey
