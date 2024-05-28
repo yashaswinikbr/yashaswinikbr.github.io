@@ -8,8 +8,8 @@ buttonText: 'Contact Me'
 
 👩‍💻 I am working as a Software Developer at [One360 LLC](https://www.one360.cx/).
 
-I have about 5+ years of academic experience in the field of Computer Science and Software Engineering.
+I have about 2+ years of experience building scalable backend systems.
 
-I'm now seeking a full-time role where I can contribute my skills in coding and finding efficient solutions.
+I'm now seeking a full-time roles where I can make a lasting impact and make meaningful connections.
 
 Let's code the future together!
