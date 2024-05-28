@@ -2,7 +2,7 @@
 date: '2020-01-10'
 title: 'Full Stack Engineer'
 company: 'Cognizant Technology Solutions'
-range: 'October 2020 - December 2021'
+range: 'May 2020 - December 2021'
 url: ''
 ---
 
