@@ -3,6 +3,7 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Java
+  - Python
   - Javascript
   - MERN
   - C#
